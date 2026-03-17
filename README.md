@@ -16,8 +16,8 @@
 
 ---
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sofitoo-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sofia-olariaga-427811238)
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sofia-olariaga-427811238)
 
 ---
 
